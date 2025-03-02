@@ -1,6 +1,8 @@
 import java.util.*;
 public abstract class Thing {
-   protected int row, col, dir;
+   protected int row;
+   protected int col;
+   protected int dir;
    protected char lab;
    
    public Thing(int row, int col, char lab) {
