@@ -1,6 +1,7 @@
+import java.util.*;
 public class TypeA extends Thing {
    public TypeA(int row, int col, char lab) {
-      suber(row, col, lab);
+      super(row, col, lab);
    }
    
    @Override

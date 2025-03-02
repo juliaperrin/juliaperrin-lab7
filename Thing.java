@@ -1,3 +1,4 @@
+import java.util.*;
 public abstract class Thing {
    protected int row, col, dir;
    protected char lab;

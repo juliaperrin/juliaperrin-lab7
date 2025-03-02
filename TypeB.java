@@ -1,3 +1,4 @@
+import java.util.*;
 public class TypeB extends Thing {
    private int timeSinceLast = 0;
    

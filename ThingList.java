@@ -1,3 +1,4 @@
+import java.util.*;
 public class ThingList {
    private class Node {
       Thing data;

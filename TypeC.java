@@ -1,3 +1,4 @@
+import java.util.*;
 public class TypeC extends Thing {
    
    private boolean switchDirection = true;
