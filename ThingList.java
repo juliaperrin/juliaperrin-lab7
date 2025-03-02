@@ -32,6 +32,7 @@ public class ThingList {
          currentDot = currentDot.next;
       }
       System.out.println("done");
+      System.out.flush();
    }
 }
       
